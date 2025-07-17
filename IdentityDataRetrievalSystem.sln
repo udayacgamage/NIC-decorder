@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityDataRetrievalSystem", "IdentityDataRetrievalSystem.csproj", "{9AF44A02-8929-481A-A8B1-EDDA5B32125F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF44A02-8929-481A-A8B1-EDDA5B32125F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF44A02-8929-481A-A8B1-EDDA5B32125F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF44A02-8929-481A-A8B1-EDDA5B32125F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF44A02-8929-481A-A8B1-EDDA5B32125F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A90F2F4-80A6-4464-952F-D0DB75D80F43}
+	EndGlobalSection
+EndGlobal

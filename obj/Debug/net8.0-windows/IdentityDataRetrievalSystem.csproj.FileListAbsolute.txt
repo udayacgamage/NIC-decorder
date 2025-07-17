@@ -1,0 +1,16 @@
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\IdentityDataRetrievalSystem.Form1.resources
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\IdentityDataRetrievalSystem.csproj.GenerateResource.cache
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\IdentityDataRetrievalSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\IdentityDataRetrievalSystem.AssemblyInfoInputs.cache
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\IdentityDataRetrievalSystem.AssemblyInfo.cs
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\IdentityDataRetrievalSystem.csproj.CoreCompileInputs.cache
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\bin\Debug\net8.0-windows\IdentityDataRetrievalSystem.exe
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\bin\Debug\net8.0-windows\IdentityDataRetrievalSystem.deps.json
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\bin\Debug\net8.0-windows\IdentityDataRetrievalSystem.runtimeconfig.json
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\bin\Debug\net8.0-windows\IdentityDataRetrievalSystem.dll
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\bin\Debug\net8.0-windows\IdentityDataRetrievalSystem.pdb
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\IdentityDataRetrievalSystem.dll
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\refint\IdentityDataRetrievalSystem.dll
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\IdentityDataRetrievalSystem.pdb
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\IdentityDataRetrievalSystem.genruntimeconfig.cache
+D:\sem2\c#\VAP_LE6_ICT23834\IdentityDataRetrievalSystem\obj\Debug\net8.0-windows\ref\IdentityDataRetrievalSystem.dll
